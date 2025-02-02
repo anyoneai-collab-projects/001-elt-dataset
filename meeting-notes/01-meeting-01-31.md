@@ -117,13 +117,14 @@ https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-review
 	* https://developer.imdb.com/documentation/api-documentation/getting-access/
 	* https://aws.amazon.com/marketplace/pp/prodview-3n67c76ppu2yy
 	* https://www.statista.com/outlook/amo/media/cinema/box-office/worldwide (nice visualizations)
+	* **https://developer.imdb.com/non-commercial-datasets/ (Free datasets, has ratings)**
 
 * #### Daily Box Office
 	* ##### Scraping
 	    * https://www.boxofficemojo.com/date/2025-01-31/ (latest are estimated)
 	    * https://www.the-numbers.com/daily-box-office-chart
 	    * https://www.the-numbers.com/box-office-chart/daily/2025/01/31
-	* Package
+	* #### Package
     	* https://pypi.org/project/boxoffice-api/
 	    * https://github.com/Stink-Po/boxoffice_api (https://medium.com/@fresh.pourya/unofficial-python-api-for-box-office-mojo-access-box-office-data-with-ease-3bf1dd7fd5d9)
 
